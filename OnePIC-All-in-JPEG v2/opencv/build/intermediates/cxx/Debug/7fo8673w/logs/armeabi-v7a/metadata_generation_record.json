@@ -1,0 +1,156 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file_": "/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1850560573
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/.cxx/Debug/7fo8673w/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -814739254
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -883014104
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/.cxx/Debug/7fo8673w/armeabi-v7a\u0027",
+    "file_": "/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1228798831
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/.cxx/Debug/7fo8673w/armeabi-v7a\u0027",
+    "file_": "/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -278258427
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/yujin/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  \"-H/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper\" \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/Users/yujin/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/yujin/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/yujin/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/yujin/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/build/intermediates/cxx/Debug/7fo8673w/obj/armeabi-v7a\" \\\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/build/intermediates/cxx/Debug/7fo8673w/obj/armeabi-v7a\" \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  \"-B/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/.cxx/Debug/7fo8673w/armeabi-v7a\" \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 882003254
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/yujin/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  \"-H/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper\" \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/Users/yujin/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/yujin/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/yujin/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/yujin/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/build/intermediates/cxx/Debug/7fo8673w/obj/armeabi-v7a\" \\\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/build/intermediates/cxx/Debug/7fo8673w/obj/armeabi-v7a\" \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  \"-B/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/.cxx/Debug/7fo8673w/armeabi-v7a\" \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1684883339
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/.cxx/Debug/7fo8673w/armeabi-v7a/compile_commands.json.bin normally",
+    "file_": "/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1624832554
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1001941672
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked /Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/.cxx/Debug/7fo8673w/armeabi-v7a/compile_commands.json to /Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/.cxx/tools/debug/armeabi-v7a/compile_commands.json",
+    "file_": "/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1110875174
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/yujin/Documents/GitHub/OnePIC-All-in-JPEG v2/OnePIC-All-in-JPEG/OnePIC/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1354952540
+  }
+]
